@@ -1,4 +1,9 @@
-image/
+image/test/cats/*
+image/test/dogs/*
+image/train/cats/*
+image/train/dogs/*
+image/validation/cats/*
+image/validation/dogs/*
 images_backup/
 cat_dog.zip
 image.zip
